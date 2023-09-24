@@ -1,4 +1,4 @@
- Este guia fornece os passos necessários para clonar  repositório  no GitHub para fazer alterações
+ Este guia fornece os passos necessários para clonar  repositório  
  
 
 
