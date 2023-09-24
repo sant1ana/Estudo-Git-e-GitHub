@@ -36,7 +36,7 @@ do seu código disponíveis online. <br> <br>
 
 
 
-4. `git add [nome do arquivo]` ou `git add .`: Adiciona alterações ao stage para serem commitadas.
+4. `git add [nome do arquivo]` ou `git add .`: Adiciona um diretório em especifico  ou adiconar todos os arquivos/diretórios ao stage para serem commitadas.
 
 
 
