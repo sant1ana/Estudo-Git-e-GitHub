@@ -3,7 +3,10 @@
 
 ## O que é Git? <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width = "40px"/>
 
-Git  é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, é uma ferramenta que ajuda a controlar e gerenciar todas as mudanças feitas nos seus projetos, permite que você trabalhe com outras pessoas de forma eficaz e fornece um histórico seguro das suas criações <br> <br>
+Git  é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, é uma ferramenta que ajuda a controlar e gerenciar todas as mudanças feitas nos seus projetos, permite que você trabalhe com outras pessoas de forma eficaz e fornece um histórico seguro das suas criações. E um de seus diferenciais é que, além de que cada diretório (chamado de
+repositório) possuir um histórico completo das alterações realizadas, ele é capaz de sincronizar um
+repositório local a um remoto, possibilitando que também seja acessado em outro computador e na nuvem
+(internet). <br> <br>
 
 - [Link para download do Git](https://git-scm.com/)  <br> <br>
 
@@ -14,7 +17,9 @@ Git  é um sistema de controle de versões distribuído, usado principalmente no
 
 
 
-GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo. <br> <br>
+GitHub é um sistema de hospedagem para versionamento de projetos e de códigos para desenvolvedores. É
+possível trabalhar em projetos colaborativos com desenvolvedores de todo o mundo, e ter todas as versões
+do seu código disponíveis online. <br> <br>
 
 
 # Comandos funcionais do Git e Github
