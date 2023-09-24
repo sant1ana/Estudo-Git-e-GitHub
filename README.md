@@ -28,7 +28,7 @@ do seu código disponíveis online. <br> <br>
 
 1. ```mkdir [nome da pasta]```: Responsável por criar uma pasta no diretório
 
-2. ```git init```:  irá criar um repositório novo em branco e, a partir daí, será possível armazenar seu código.
+2. ```git init```:  irá criar um repositório novo em branco e, a partir daí, será possível armazenar seu código fonte, alterar, salvar e gerenciar todas as alterações feitas nesse repositório..
 
 
 
@@ -36,7 +36,7 @@ do seu código disponíveis online. <br> <br>
 
 
 
-4. `git add [nome do arquivo]` ou `git add .`: Adiciona um diretório em especifico  ou adiconar todos os arquivos/diretórios ao stage para serem commitadas.
+4. `git add [nome do arquivo]`: Para incluir um arquivo especifico é preciso determinar o nome do arquivo novo/modificado  ou `git add .`: Para incluir todos os novos  arquivos modificados de uma unica vez ao stage para serem commitadas.
 
 
 
@@ -44,7 +44,7 @@ do seu código disponíveis online. <br> <br>
 
 
 
-6. `git status`: Mostra o status das alterações no seu repositório.
+6. `git status`: Lista todos os arquivos novos ou modificados para serem commitados.
 
 
 
@@ -52,11 +52,11 @@ do seu código disponíveis online. <br> <br>
 
 
 
-8. `git branch [nome]`: Cria uma nova branch.
+8. `git branch [nome  da branch]`: Cria uma nova branch.
 
 
 
-9. `git checkout [nome]`: Muda para a branch especificada.
+9. `git checkout [nome da branch]`: Muda para a branch especificada.
 
 
 
