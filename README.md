@@ -26,55 +26,57 @@ do seu código disponíveis online. <br> <br>
 
 ## Comandos do Git:
 
-1. ```git init```: Inicia um novo repositório Git localmente.
+1. ```mkdir [nome da pasta]```: Responsável por criar uma pasta no diretório
+
+2. ```git init```:  irá criar um repositório novo em branco e, a partir daí, será possível armazenar seu código.
 
 
 
-2. `git clone [URL]`: Clona um repositório remoto para sua máquina local.
+3. `git clone [url do repositório no github]`: Clona um repositório remoto para sua máquina local.
 
 
 
-3. `git add [arquivo]` ou `git add .`: Adiciona alterações ao stage para serem commitadas.
+4. `git add [nome do arquivo]` ou `git add .`: Adiciona alterações ao stage para serem commitadas.
 
 
 
-4. `git commit -m "Mensagem de commit"`: Confirma as alterações no repositório com uma mensagem descritiva.
+5. `git commit -m "descrição da alteração"`: Confirma as alterações no repositório com uma mensagem descritiva.
 
 
 
-5. `git status`: Mostra o status das alterações no seu repositório.
+6. `git status`: Mostra o status das alterações no seu repositório.
 
 
 
-6. `git branch`: Lista todas as branches locais.
+7. `git branch`: Lista todas as branches locais.
 
 
 
-7. `git branch [nome]`: Cria uma nova branch.
+8. `git branch [nome]`: Cria uma nova branch.
 
 
 
-8. `git checkout [nome]`: Muda para a branch especificada.
+9. `git checkout [nome]`: Muda para a branch especificada.
 
 
 
-9. `git merge [branch]`: Mescla alterações de uma branch em outra.
+10. `git merge [branch]`: Mescla alterações de uma branch em outra.
 
 
 
-10. `git pull`: Atualiza seu repositório local com as alterações do repositório remoto.
+11. `git pull`: Atualiza seu repositório local com as alterações do repositório remoto.
 
 
 
-11. `git push`: Envia suas alterações locais para o repositório remoto.
+12. `git push`: Envia suas alterações locais para o repositório remoto.
 
 
 
-12. `git log`: Mostra um histórico de commits.
+13. `git log`: Mostra um histórico de commits.
 
 
 
-13. `git diff`: Mostra as diferenças entre os arquivos no stage e os arquivos no último commit.
+14. `git diff`: Mostra as diferenças entre os arquivos no stage e os arquivos no último commit.
 
 <br> <br>
 
