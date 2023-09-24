@@ -11,14 +11,15 @@
 - Preencha o nome do repositório, uma descrição opcional, escolha se ele será público ou privado e selecione a opção de criar um arquivo README.md, caso 
  deseje(isso é util para fornecer informações básicas sobre o seu projeto)
 - Clique no botão "Create repository".
+- guarde o link HTTPS que será gerado
 
-3. Abra o terminal ou prompt de comando e navegue até a pasta do projeto que deseja enviar para o GitHub.
+3. Abra o Git Bash ou terminal na pasta onde está o seu projeto que deseja enviar para o GitHub.
 
 4. Inicialize o Git dentro dessa pasta usando o comando ``` git init ```
 
 5. Adicione os arquivos do projeto ao Git usando o comando  ``` git add . ``` 
 
-6. Faça um commit dos arquivos adicionados usando o comando  ```git commit -m "Mensagem de commit" ``` 
+6. Faça um commit dos arquivos adicionados usando o comando  ```git commit -m "Mensagem descritiva das alterações" ``` 
 
 7. Adicione o repositório remoto do GitHub como destino para enviar seus arquivos usando o comando ```git remote add origin <URL do repositório do github> ```  
 
