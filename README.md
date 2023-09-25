@@ -26,7 +26,6 @@ do seu código disponíveis online. <br> <br>
 
 ## Comandos do Git:
 
-1. ```mkdir [nome da pasta]```: Responsável por criar uma pasta no diretório
 
 2. ```git init```:  irá criar um repositório novo em branco e, a partir daí, será possível armazenar seu código fonte, alterar, salvar e gerenciar todas as alterações feitas nesse repositório..
 
@@ -80,7 +79,11 @@ do seu código disponíveis online. <br> <br>
 
 15. `git rm [nome do arquivo]`: Remover arquivo
 
-<br> <br>
+<br> 
+
+- [Link comandos básicos do Git](http://comandosgit.github.io/)
+
+<br> <br> 
 
 
 ## Comandos do GitHub:
