@@ -22,7 +22,7 @@ possível trabalhar em projetos colaborativos com desenvolvedores de todo o mund
 do seu código disponíveis online. <br> <br>
 
 
-# Comandos funcionais do Git e Github
+# :dart: Comandos funcionais do Git e Github
 
 ## Comandos do Git:
 
