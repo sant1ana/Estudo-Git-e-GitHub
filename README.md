@@ -78,6 +78,8 @@ do seu código disponíveis online. <br> <br>
 
 14. `git diff`: Mostra as diferenças entre os arquivos no stage e os arquivos no último commit.
 
+15. `git rm [nome do arquivo]`: Remover arquivo
+
 <br> <br>
 
 
