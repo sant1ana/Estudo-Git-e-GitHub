@@ -36,50 +36,44 @@ do seu código disponíveis online. <br> <br>
 
 3. `git add .`: Para incluir todos os novos  arquivos modificados de uma unica vez ao stage para serem commitadas.
 
-4. `git reset . `: remove todos os arquivos do palco
+4. `git reset [nome do aquivo] `: remove o arquivo do palco (stage)
+5.  `git reset .`: remove todos os arquivos do palco (stage)
 
 
-5. `git commit -m "descrição da alteração"`: realiza o commit dos rquivos modificados no repositório com uma mensagem descritiva.
-
-
-
-6. `git status`: Lista as últimas modificações dentro do repositório
+6. `git commit -m "descrição da alteração"`: realiza o commit dos rquivos modificados no repositório com uma mensagem descritiva.
 
 
 
-7. `git branch`: Lista todas as branches locais.
+7. `git status`: Lista as últimas modificações dentro do repositório
 
 
 
-8. `git branch -M main`: troca o nome da branch de master para main
+8. `git branch`: Lista todas as branches locais.
 
 
 
-9. `git remote -v`: verifica o status do link do repositório
+9. `git branch -M main`: troca o nome da branch de master para main
 
 
 
-10. `git branch [nome  da branch]`: Cria uma nova branch.
+10. `git remote -v`: verifica o status do link do repositório
 
 
 
-11. `git checkout [nome da branch]`: entra na branch especificada.
-
-12. `git checkout [nome da branch] [nome do arquivo]`: realiza o "merge" do arquivo específico na branch atual
+11. `git branch [nome  da branch]`: Cria uma nova branch.
 
 
 
-13. `git pull`: Atualiza seu repositório local com as alterações do repositório remoto.
+12. `git checkout [nome da branch]`: entra na branch especificada.
+
+13. `git checkout [nome da branch] [nome do arquivo]`: realiza o "merge" do arquivo específico na branch atual
+
+
+
+14. `git pull`: Atualiza seu repositório local com as alterações do repositório remoto.
     
 
-14. `git pull main`: puxa as últimas  versões da branch informada
-
-
-
-15. `git push`: Envia suas alterações locais para o repositório remoto.
-
-
-
+15. `git pull [nome da branch]`: puxa as últimas  versões da branch informado
 
 
 16. `git log`: lista o histórico de commits.
@@ -103,39 +97,41 @@ do seu código disponíveis online. <br> <br>
 
 
 
-2. `git push -u origin [branch]`: Envia a branch local para o repositório remoto pela primeira vez.
+2. `git push -u origin [nome da branch]`: Envia a branch local para o repositório remoto pela primeira vez.
+
+3.  `git push origin [ nome da branch]`: envia suas alterções locais para o repositório remoto
 
 
 
-3. `git pull origin [ nome da branch]`: Atualiza sua branch local com as alterações da branch remota.
+4. `git pull origin [ nome da branch]`: Atualiza sua branch local com as alterações da branch remota.
 
 
 
-4. `git clone [URL]`: Clona um repositório GitHub para sua máquina local.
+5. `git clone [URL]`: Clona um repositório GitHub para sua máquina local.
 
 
 
-5. `git fork`: Cria uma cópia pessoal de um repositório GitHub em sua conta.
+6. `git fork`: Cria uma cópia pessoal de um repositório GitHub em sua conta.
 
 
 
-6. `git pull request`: Abre uma solicitação de pull (pull request) para sugerir alterações em um repositório.
+7. `git pull request`: Abre uma solicitação de pull (pull request) para sugerir alterações em um repositório.
 
 
 
-7. `git merge [ nome da branch]` : Realiza o merge  da branch atual com a branch indicada .
+8. `git merge [ nome da branch]` : Realiza o merge  da branch atual com a branch indicada .
 
 
 
-8. `git blame [arquivo]`: Mostra quem fez cada alteração em um arquivo específico.
+9. `git blame [arquivo]`: Mostra quem fez cada alteração em um arquivo específico.
 
 
 
-9. `git stash`: Salva temporariamente alterações não commitadas para trabalhar em outra tarefa.
+10. `git stash`: Salva temporariamente alterações não commitadas para trabalhar em outra tarefa.
 
 
 
-10. `git tag [nome]`: Cria uma tag para marcar versões específicas do seu código.
+11. `git tag [nome]`: Cria uma tag para marcar versões específicas do seu código.
 
 <br> <br>
 
