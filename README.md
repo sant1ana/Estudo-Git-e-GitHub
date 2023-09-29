@@ -1,4 +1,4 @@
-# Resumos Git e GitHub 📝
+# Anotações Git e GitHub 📝
  :pushpin: Repositório criado para armazenar meus resumos de estudo do Git e GitHub para sanar futuras dúvidas. <br> <br>
 
 ## O que é Git? <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width = "40px"/>
