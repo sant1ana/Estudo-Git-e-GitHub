@@ -63,7 +63,7 @@ do seu código disponíveis online. <br> <br>
 
 
 
-11. `git checkout [nome da branch]`: Muda para a branch especificada.
+11. `git checkout [nome da branch]`: entra na branch especificada.
 
 12. `git checkout [nome da branch] [nome do arquivo]`: realiza o "merge" do arquivo específico na branch atual
 
@@ -82,7 +82,7 @@ do seu código disponíveis online. <br> <br>
 
 
 
-16. `git log`: Mostra um histórico de commits.
+16. `git log`: lista o histórico de commits.
 
 
 
@@ -107,7 +107,7 @@ do seu código disponíveis online. <br> <br>
 
 
 
-3. `git pull origin [branch]`: Atualiza sua branch local com as alterações da branch remota.
+3. `git pull origin [ nome da branch]`: Atualiza sua branch local com as alterações da branch remota.
 
 
 
